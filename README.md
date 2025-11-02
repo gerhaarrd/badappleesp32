@@ -53,7 +53,7 @@ with open('frames.bin', 'rb') as f:
 
 ## 📼 Vídeos
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jC6i8l6ry9g?si=5Kiqm30ilyrkIFKY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![Assista no YouTube](https://img.youtube.com/vi/jC6i8l6ry9g/maxresdefault.jpg)](https://www.youtube.com/watch?v=jC6i8l6ry9g)
 
 ---
 
@@ -65,6 +65,7 @@ Apenas dê crédito se usar este repositório como base.
 ---
 
 ✨ Divirta-se rodando Bad Apple no seu ESP32!
+
 
 
 
