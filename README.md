@@ -61,7 +61,3 @@ Apenas dê crédito se usar este repositório como base.
 ---
 
 ✨ Divirta-se rodando Bad Apple no seu ESP32!
-
-```
-```
-
