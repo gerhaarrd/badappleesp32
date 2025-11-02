@@ -51,6 +51,10 @@ with open('frames.bin', 'rb') as f:
 
 * Se o arquivo `frames.bin` for muito grande, use SD card.
 
+## 📼 Vídeos
+
+https://youtu.be/jC6i8l6ry9g?si=jUVUxWoTpA3urGSP
+
 ---
 
 ## 📌 Licença
@@ -61,4 +65,5 @@ Apenas dê crédito se usar este repositório como base.
 ---
 
 ✨ Divirta-se rodando Bad Apple no seu ESP32!
+
 
