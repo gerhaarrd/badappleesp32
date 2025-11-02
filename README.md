@@ -3,7 +3,7 @@
 🎬 Um projeto para rodar o famoso vídeo **Bad Apple** em OLED 0.96" (SSD1306/SH1106) usando **ESP32 e MicroPython**.  
 
 O projeto inclui:
-- Conversão automática de PNGs monocromáticos para binário otimizado para SSD1306.
+- Arquivo bin com os frames já convertidos para exibição no display.
 - Script MicroPython para exibir o vídeo no display.
 
 ---
@@ -61,3 +61,4 @@ Apenas dê crédito se usar este repositório como base.
 ---
 
 ✨ Divirta-se rodando Bad Apple no seu ESP32!
+
